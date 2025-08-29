@@ -19,7 +19,7 @@ export default function Footer() {
           {/* Social Icons */}
           <div className="flex gap-5 mt-5 text-lg">
             <a
-              href="https://github.com/rajarnav0906"
+              href="https://github.com/AryanSidhantDev"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400 transition-colors"
@@ -27,7 +27,7 @@ export default function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://www.linkedin.com/in/arnav-raj-04211a216/"
+              href="https://www.linkedin.com/in/aryan-sidhant-dev-265614260/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400 transition-colors"
@@ -35,7 +35,7 @@ export default function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="https://www.instagram.com/arnav_0906/"
+              href="https://www.instagram.com/aryan_sidhant_dev/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyan-400 transition-colors"
@@ -43,7 +43,7 @@ export default function Footer() {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="mailto:2022ugpi009@nitjsr.ac.in"
+              href="mailto:2022ugee015@nitjsr.ac.in"
               className="hover:text-cyan-400 transition-colors"
             >
               <Mail className="w-5 h-5" />
